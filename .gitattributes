@@ -1,0 +1,7 @@
+* text=auto
+
+*.sh text eol=lf
+
+privileges.sql eol=lf
+table_setup.sql eol=lf
+user.sql eol=lf
