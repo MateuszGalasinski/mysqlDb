@@ -17,4 +17,8 @@ CREATE PROCEDURE myproc() BEGIN
                 SET @i = @i+1;
 
 END WHILE;
-END; // call myproc;
+END; // 
+
+DELIMITER ;
+
+call myproc;
