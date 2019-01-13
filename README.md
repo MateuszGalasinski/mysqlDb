@@ -2,8 +2,10 @@
 For software engineering course application.
 
 There is database called "authentication" \
+
 Example of working connection string: \
 mysql://newuser:MyNewPass@db:3306/authentication \
+
 For full reference, you can check sql scripts preparing database and users.
 
 ## Build image 
